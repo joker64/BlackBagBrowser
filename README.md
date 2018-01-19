@@ -2,6 +2,7 @@
 BlackBag is a secured and fast WebBrowser for android smart phones
 # Features
 What makes BlackBagBrowser diffrent from others WebBrowser ?
+<pre>
 -Login Proces
 -No History Log
 -No Database 
@@ -10,6 +11,7 @@ What makes BlackBagBrowser diffrent from others WebBrowser ?
 -Secured with https && http 
 -Fast browsing speed
 -Dark Mood
+</pre>
 More will come in next Updates .....
 # Download
 To Download or Update BlackBagBrowser go to the offcial Website :
