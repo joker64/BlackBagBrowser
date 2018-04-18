@@ -14,6 +14,7 @@ What makes BlackBagBrowser diffrent from others WebBrowser ?
 -Fast browsing speed
 -Dark Mood
 -Automatic Update System
+-Ad Free
 </pre>
 More will come in next Updates .....
 # Download
